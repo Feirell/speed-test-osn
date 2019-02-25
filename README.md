@@ -10,7 +10,7 @@ This repository is meant to help you to test the performance of your current wor
 
 2. change the osn path
 
-    Open the package.json and change the osn-path to your local installtion
+    Open the package.json and change the osn-path to your local installation
 
 3. npm install
 
