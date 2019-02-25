@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "config": {
+    "osn-path": "../open-simplex-noise-js"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "benchmark-suite-formatter": "^2.0.2",
+    "open-simplex-noise": "^1.5.0"
+  }
+}
