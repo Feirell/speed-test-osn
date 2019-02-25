@@ -1,6 +1,6 @@
 # benchamrking open-simplex-noise
 
-This repository is meant to help you to test the performance of your working open-simplex-implmentation.
+This repository is meant to help you to test the performance of your current working implmentation of open-simplex-noise.
 
 ## Installation
 
