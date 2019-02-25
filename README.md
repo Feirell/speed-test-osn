@@ -2,7 +2,7 @@
 
 This repository is meant to help you to test the performance of your working open-simplex-implmentation.
 
-## Installtion
+## Installation
 
 1. Download
 
